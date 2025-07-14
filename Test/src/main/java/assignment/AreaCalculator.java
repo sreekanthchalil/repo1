@@ -1,3 +1,4 @@
+package assignment;
 public class AreaCalculator {
 
     // Method to calculate area of a circle

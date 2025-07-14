@@ -1,4 +1,6 @@
 // Class to store student marks and calculate total
+package assignment;
+
 class Student {
     private int mark1;
     private int mark2;
@@ -38,7 +40,7 @@ class Student {
 }
 
 // Main class to test Student
-public class StudentGrade {
+/*public class StudentGrade {
     public static void main(String[] args) {
         // Create 2 students using constructor
         Student student1 = new Student(85, 90, 88);
@@ -56,4 +58,4 @@ public class StudentGrade {
         System.out.println("Student 2 Total Marks: " + total2);
         System.out.println("Student 2 Grade: " + student2.getGrade());
     }
-}
+} */
